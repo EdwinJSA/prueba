@@ -15,5 +15,5 @@ print(nombre2)
 edad2 = int(input("introduzca su edad: "))
 print(edad2)
 
-print("Variable nombre2: " + type(nombre2))
-print("Variable edad2: " + type(edad2))
+print("Variable nombre2: ", type(nombre2))
+print("Variable edad2: ",type(edad2))

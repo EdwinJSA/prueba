@@ -6,3 +6,4 @@ nombre = "Carlos" #string
 edad = 23 #int
 sexo = 'M' #char
 vivo = True #bool
+altura = 1.75 #float

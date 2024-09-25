@@ -12,7 +12,7 @@ nombre2= input("introduzca su nombre: ")
 print(nombre2)
 
 #Castear
-edad2 = input("introduzca su edad: ")
+edad2 = int(input("introduzca su edad: "))
 print(edad2)
 
 print("Variable nombre2: ", type(nombre2))

@@ -6,7 +6,8 @@ agregar
 git add .
 
 hacer un commit local
-git commit -m "aqui va el mensaje"
+git commit -m ":rocket:aqui va el mensaje"
+>> Antes del mensaje podes ponerle el código del emoji
 
 enviar el commit a la nube
 git push 
@@ -16,3 +17,4 @@ git status
 
 actualizar el repo local 
 git pull
+

@@ -8,11 +8,11 @@ sexo = 'M' #char
 vivo = True #bool
 altura = 1.75 #float
 
-nombre2= input("introduzca su nombre")
+nombre2= input("introduzca su nombre: ")
 print(nombre2)
 
 #Castear
-edad2 = int(input("introduzca su edad"))
+edad2 = int(input("introduzca su edad: "))
 print(edad2)
 
 print("Variable nombre2: " + type(nombre2))

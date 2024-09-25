@@ -17,3 +17,6 @@ print(edad2)
 
 print("Variable nombre2: ", type(nombre2))
 print("Variable edad2: ",type(edad2))
+
+#para mostrar variables sin castear a un string desde un print usamos f:
+print(f"Tu nombre es {nombre2} y tu edad es {edad2}")

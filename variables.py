@@ -7,3 +7,6 @@ edad = 23 #int
 sexo = 'M' #char
 vivo = True #bool
 altura = 1.75 #float
+
+nombre2= input("introduzca su nombre")
+print(nombre2)
